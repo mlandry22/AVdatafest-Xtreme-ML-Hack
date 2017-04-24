@@ -1,0 +1,511 @@
+Date,Weekday,Holiday_Name,Holiday_Type,Where,Year,dtString
+1-Jan,Sunday,New Year's Day,National holiday,,2017,2017-01-01
+1-Jan,Sunday,Feast of the Holy Family,Observance,,2017,2017-01-01
+2-Jan,Monday,New Year's Day,National holiday,"AN, AR, CL, MU",2017,2017-01-02
+6-Jan,Friday,Epiphany,National holiday,,2017,2017-01-06
+28-Feb,Tuesday,Day of Andaluc’a,Local holiday,Andalusia,2017,2017-02-28
+1-Mar,Wednesday,Day of the Balearic Islands,Local holiday,Balearic Islands,2017,2017-03-01
+1-Mar,Wednesday,Ash Wednesday,Observance,,2017,2017-03-01
+6-Mar,Monday,Fifth of March,Local holiday,Zaragoza,2017,2017-03-06
+17-Mar,Friday,Martyr Vicente's Feast,Local holiday,Valencia,2017,2017-03-17
+19-Mar,Sunday,San Jose,Common Local holidays,21 states,2017,2017-03-19
+20-Mar,Monday,March equinox,Season,,2017,2017-03-20
+20-Mar,Monday,San Jose,Local holiday,"Extremadura, Madrid",2017,2017-03-20
+26-Mar,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time,,2017,2017-03-26
+9-Apr,Sunday,Palm Sunday,Observance,,2017,2017-04-09
+13-Apr,Thursday,Maundy Thursday,Common Local holidays,15 states,2017,2017-04-13
+14-Apr,Friday,Good Friday,National holiday,,2017,2017-04-14
+17-Apr,Monday,Easter Monday,Common Local holidays,"CT, IB, LO, NA, PV, S, VC",2017,2017-04-17
+23-Apr,Sunday,St George's Day,Local holiday,Catalonia,2017,2017-04-23
+24-Apr,Monday,Day of Arag—n,Local holiday,Aragon,2017,2017-04-24
+24-Apr,Monday,Castile and Le—n Day,Local holiday,Castile-Leon,2017,2017-04-24
+1-May,Monday,Labor Day / May Day,National holiday,,2017,2017-05-01
+2-May,Tuesday,Day of Madrid,Local holiday,Madrid,2017,2017-05-02
+7-May,Sunday,Mothers' Day,Observance,,2017,2017-05-07
+15-May,Monday,Feast Day of St Isidore,Local holiday,Madrid,2017,2017-05-15
+17-May,Wednesday,Galicia Literature Day,Local holiday,Galicia,2017,2017-05-17
+30-May,Tuesday,Day of the Canary Islands,Local holiday,Canary Islands,2017,2017-05-30
+31-May,Wednesday,Canaries day observed,Local holiday,Canary Islands,2017,2017-05-31
+31-May,Wednesday,Day of Castile-La Mancha,Local holiday,Castile-La Mancha,2017,2017-05-31
+4-Jun,Sunday,Whit Sunday/Pentecost,Observance,,2017,2017-06-04
+5-Jun,Monday,Whit Monday,Local holiday,Barcelona,2017,2017-06-05
+9-Jun,Friday,Day of Murcia,Local holiday,Murcia,2017,2017-06-09
+9-Jun,Friday,Day of La Rioja,Local holiday,La Rioja,2017,2017-06-09
+13-Jun,Tuesday,San Antonio,Local holiday,Ceuta,2017,2017-06-13
+15-Jun,Thursday,Corpus Christi,Local holiday,"Castile-La Mancha, Madrid",2017,2017-06-15
+21-Jun,Wednesday,June Solstice,Season,,2017,2017-06-21
+24-Jun,Saturday,Saint John the Baptist Day,Local holiday,Catalonia,2017,2017-06-24
+25-Jul,Tuesday,Feast of Saint James the Apostle,Common Local holidays,"CL, CN, GA, M, NA, PV",2017,2017-07-25
+28-Jul,Friday,Day of the Institutions,Local holiday,Cantabria,2017,2017-07-28
+5-Aug,Saturday,The Day of Our Lady of Africa,Local holiday,Ceuta,2017,2017-08-05
+13-Aug,Sunday,The Day of Cantabria,Local holiday,Cantabria,2017,2017-08-13
+15-Aug,Tuesday,Assumption of Mary,National holiday,,2017,2017-08-15
+2-Sep,Saturday,Day of the Independent City of Ceuta,Local holiday,Ceuta,2017,2017-09-02
+2-Sep,Saturday,Eid-al-Adha,Local holiday,Ceuta,2017,2017-09-02
+8-Sep,Friday,Day of Asturias,Local holiday,Asturias,2017,2017-09-08
+8-Sep,Friday,Day of Extremadura,Local holiday,Extremadura,2017,2017-09-08
+8-Sep,Friday,Virgin of the Victory,Local holiday,Melilla,2017,2017-09-08
+11-Sep,Monday,Day of Catalonia,Local holiday,Catalonia,2017,2017-09-11
+12-Sep,Tuesday,Eid-al-Adha,Local holiday,Melilla,2017,2017-09-12
+15-Sep,Friday,Nuestra Se–ora de la Bien Aparecida,Local holiday,Cantabria,2017,2017-09-15
+17-Sep,Sunday,Day of Melilla,Local holiday,Melilla,2017,2017-09-17
+22-Sep,Friday,September equinox,Season,,2017,2017-09-22
+9-Oct,Monday,Day of the Valencian Community,Local holiday,Valencia,2017,2017-10-09
+12-Oct,Thursday,Hispanic Day,National holiday,,2017,2017-10-12
+13-Oct,Friday,St. Valero's Feast,Local holiday,Zaragoza,2017,2017-10-13
+29-Oct,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time,,2017,2017-10-29
+1-Nov,Wednesday,All Saints' Day,National holiday,All except,2017,2017-11-01
+4-Dec,Monday,Day of Navarre,Local holiday,Navarre,2017,2017-12-04
+6-Dec,Wednesday,Constitution Day,National holiday,"All except AN, AR, CE, CL, EX, LO, M, ML, MU, O, VC",2017,2017-12-06
+8-Dec,Friday,Immaculate Conception,National holiday,,2017,2017-12-08
+21-Dec,Thursday,December Solstice,Season,,2017,2017-12-21
+24-Dec,Sunday,Christmas Eve,Observance,,2017,2017-12-24
+25-Dec,Monday,Christmas Day,National holiday,,2017,2017-12-25
+26-Dec,Tuesday,St Stephen's Day,Local holiday,"B, CT, IB",2017,2017-12-26
+31-Dec,Sunday,New Year's Eve,Observance,,2017,2017-12-31
+1-Jan,Friday,New Year's Day,National holiday,,2016,2016-01-01
+1-Jan,Friday,Feast of the Holy Family,Observance,,2016,2016-01-01
+6-Jan,Wednesday,Epiphany,National holiday,,2016,2016-01-06
+22-Jan,Friday,Martyr Vicente's Feast,Local holiday,Valencia,2016,2016-01-22
+29-Jan,Friday,St. Valero's Feast,Local holiday,Zaragoza,2016,2016-01-29
+10-Feb,Wednesday,Ash Wednesday,Observance,,2016,2016-02-10
+28-Feb,Sunday,Day of Andaluc’a,Local holiday,Andalusia,2016,2016-02-28
+Feb-29,Monday,Day of Andaluc’a (observed),Local holiday,Andalusia,2016,2016-02-01
+1-Mar,Tuesday,Day of the Balearic Islands,Local holiday,Balearic Islands,2016,2016-03-01
+5-Mar,Saturday,Fifth of March,Local holiday,Zaragoza,2016,2016-03-05
+19-Mar,Saturday,San Jose,Common Local holidays,"AR, CL, CM, EX, GA, M, ML, MU, NA, PV, VC",2016,2016-03-19
+20-Mar,Sunday,March equinox,Season,,2016,2016-03-20
+20-Mar,Sunday,Palm Sunday,Observance,,2016,2016-03-20
+24-Mar,Thursday,Maundy Thursday,Common Local holidays,15 states,2016,2016-03-24
+25-Mar,Friday,Good Friday,National holiday,,2016,2016-03-25
+27-Mar,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time,,2016,2016-03-27
+28-Mar,Monday,Easter Monday,Common Local holidays,"CT, LO, NA, PV, S, VC",2016,2016-03-28
+28-Mar,Monday,Easter Monday,Local holiday,"CT, LO, NA, PV, VC",2016,2016-03-28
+23-Apr,Saturday,Day of Arag—n,Local holiday,Aragon,2016,2016-04-23
+23-Apr,Saturday,St George's Day,Local holiday,Catalonia,2016,2016-04-23
+23-Apr,Saturday,Castile and Le—n Day,Local holiday,Castile-Leon,2016,2016-04-23
+1-May,Sunday,Labor Day / May Day,National holiday,,2016,2016-05-01
+1-May,Sunday,Mothers' Day,Observance,,2016,2016-05-01
+2-May,Monday,Labor Day observed,National holiday,14 states,2016,2016-05-02
+2-May,Monday,Day of Madrid,Local holiday,Madrid,2016,2016-05-02
+15-May,Sunday,Feast Day of St Isidore,Local holiday,Madrid,2016,2016-05-15
+15-May,Sunday,Whit Sunday/Pentecost,Observance,,2016,2016-05-15
+16-May,Monday,Whit Monday,Local holiday,Barcelona,2016,2016-05-16
+17-May,Tuesday,Galicia Literature Day,Local holiday,Galicia,2016,2016-05-17
+26-May,Thursday,Corpus Christi,Local holiday,"Castile-La Mancha, Madrid",2016,2016-05-26
+30-May,Monday,Day of the Canary Islands,Local holiday,Canary Islands,2016,2016-05-30
+31-May,Tuesday,Canaries day observed,Local holiday,Canary Islands,2016,2016-05-31
+31-May,Tuesday,Day of Castile-La Mancha,Local holiday,Castile-La Mancha,2016,2016-05-31
+9-Jun,Thursday,Day of Murcia,Local holiday,Murcia,2016,2016-06-09
+9-Jun,Thursday,Day of La Rioja,Local holiday,La Rioja,2016,2016-06-09
+13-Jun,Monday,San Antonio,Local holiday,Ceuta,2016,2016-06-13
+20-Jun,Monday,June Solstice,Season,,2016,2016-06-20
+24-Jun,Friday,Saint John the Baptist Day,Local holiday,"Catalonia, Galicia",2016,2016-06-24
+25-Jul,Monday,Feast of Saint James the Apostle,Common Local holidays,"CL, CN, GA, LO, M, M, NA, PV",2016,2016-07-25
+28-Jul,Thursday,Day of the Institutions,Local holiday,Cantabria,2016,2016-07-28
+5-Aug,Friday,The Day of Our Lady of Africa,Local holiday,Ceuta,2016,2016-08-05
+14-Aug,Sunday,The Day of Cantabria,Local holiday,Cantabria,2016,2016-08-14
+15-Aug,Monday,Assumption of Mary,National holiday,,2016,2016-08-15
+2-Sep,Friday,Day of the Independent City of Ceuta,Local holiday,Ceuta,2016,2016-09-02
+8-Sep,Thursday,Day of Asturias,Local holiday,Asturias,2016,2016-09-08
+8-Sep,Thursday,Day of Extremadura,Local holiday,Extremadura,2016,2016-09-08
+8-Sep,Thursday,Virgin of the Victory,Local holiday,Melilla,2016,2016-09-08
+11-Sep,Sunday,Day of Catalonia,Local holiday,Catalonia,2016,2016-09-11
+12-Sep,Monday,Eid-al-Adha,Local holiday,Melilla,2016,2016-09-12
+13-Sep,Tuesday,Eid-al-Adha,Local holiday,Ceuta,2016,2016-09-13
+15-Sep,Thursday,Nuestra Se–ora de la Bien Aparecida,Local holiday,Cantabria,2016,2016-09-15
+17-Sep,Saturday,Day of Melilla,Local holiday,Melilla,2016,2016-09-17
+22-Sep,Thursday,September equinox,Season,,2016,2016-09-22
+7-Oct,Friday,80th anniversary of the constitution of the Basque Government in Guernica,Local holiday,Basque Country,2016,2016-10-07
+9-Oct,Sunday,Day of the Valencian Community,Local holiday,Valencia,2016,2016-10-09
+12-Oct,Wednesday,Hispanic Day,National holiday,,2016,2016-10-12
+30-Oct,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time,,2016,2016-10-30
+1-Nov,Tuesday,All Saints' Day,National holiday,All except,2016,2016-11-01
+3-Dec,Saturday,Day of Navarre,Local holiday,Navarre,2016,2016-12-03
+6-Dec,Tuesday,Constitution Day,National holiday,"All except AN, AR, CE, EX, LO, ML, MU, O, VC",2016,2016-12-06
+8-Dec,Thursday,Immaculate Conception,National holiday,,2016,2016-12-08
+21-Dec,Wednesday,December Solstice,Season,,2016,2016-12-21
+24-Dec,Saturday,Christmas Eve,Observance,,2016,2016-12-24
+25-Dec,Sunday,Christmas Day,National holiday,,2016,2016-12-25
+26-Dec,Monday,Christmas Day observed,Common Local holidays,12 states,2016,2016-12-26
+26-Dec,Monday,St Stephen's Day,Local holiday,"B, CT, IB, MU",2016,2016-12-26
+31-Dec,Saturday,New Year's Eve,Observance,,2016,2016-12-31
+1-Jan,Thursday,New Year's Day,National holiday,,2015,2015-01-01
+1-Jan,Thursday,Feast of the Holy Family,Observance,,2015,2015-01-01
+6-Jan,Tuesday,Epiphany,National holiday,,2015,2015-01-06
+22-Jan,Thursday,Martyr Vicente's Feast,Local holiday,Valencia,2015,2015-01-22
+29-Jan,Thursday,St. Valero's Feast,Local holiday,Zaragoza,2015,2015-01-29
+12-Feb,Thursday,St. Eulˆlia's Feast,Local holiday,Barcelona,2015,2015-02-12
+18-Feb,Wednesday,Ash Wednesday,Observance,,2015,2015-02-18
+28-Feb,Saturday,Day of Andaluc’a,Local holiday,Andalusia,2015,2015-02-28
+1-Mar,Sunday,Day of the Balearic Islands,Local holiday,Balearic Islands,2015,2015-03-01
+5-Mar,Thursday,Fifth of March,Local holiday,Zaragoza,2015,2015-03-05
+19-Mar,Thursday,San Jose,Common Local holidays,"AR, CL, CM, EX, M, ML, MU, NA, PV, VC",2015,2015-03-19
+20-Mar,Friday,March equinox,Season,,2015,2015-03-20
+20-Mar,Friday,San Jose,Local holiday,Galicia,2015,2015-03-20
+29-Mar,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time,,2015,2015-03-29
+29-Mar,Sunday,Palm Sunday,Observance,,2015,2015-03-29
+2-Apr,Thursday,Maundy Thursday,Common Local holidays,15 states,2015,2015-04-02
+3-Apr,Friday,Good Friday,National holiday,,2015,2015-04-03
+6-Apr,Monday,Easter Monday,Common Local holidays,"CT, LO, NA, PV, S, VC",2015,2015-04-06
+23-Apr,Thursday,Day of Arag—n,Local holiday,Aragon,2015,2015-04-23
+23-Apr,Thursday,St George's Day,Local holiday,Catalonia,2015,2015-04-23
+23-Apr,Thursday,Castile and Le—n Day,Local holiday,Castile-Leon,2015,2015-04-23
+1-May,Friday,Labor Day / May Day,National holiday,,2015,2015-05-01
+2-May,Saturday,Day of Madrid,Local holiday,Madrid,2015,2015-05-02
+3-May,Sunday,Mothers' Day,Observance,,2015,2015-05-03
+15-May,Friday,Feast Day of St Isidore,Local holiday,Madrid,2015,2015-05-15
+17-May,Sunday,Galicia Literature Day,Local holiday,Galicia,2015,2015-05-17
+24-May,Sunday,Whit Sunday/Pentecost,Observance,,2015,2015-05-24
+30-May,Saturday,Day of the Canary Islands,Local holiday,Canary Islands,2015,2015-05-30
+31-May,Sunday,Canaries day observed,Local holiday,Canary Islands,2015,2015-05-31
+31-May,Sunday,Day of Castile-La Mancha,Local holiday,Castile-La Mancha,2015,2015-05-31
+1-Jun,Monday,Whit Monday,Local holiday,Barcelona,2015,2015-06-01
+4-Jun,Thursday,Corpus Christi,Local holiday,Madrid,2015,2015-06-04
+9-Jun,Tuesday,Day of Murcia,Local holiday,Murcia,2015,2015-06-09
+9-Jun,Tuesday,Day of La Rioja,Local holiday,La Rioja,2015,2015-06-09
+13-Jun,Saturday,San Antonio,Local holiday,Ceuta,2015,2015-06-13
+21-Jun,Sunday,June Solstice,Season,,2015,2015-06-21
+24-Jun,Wednesday,Saint John the Baptist Day,Local holiday,Catalonia,2015,2015-06-24
+24-Jul,Friday,Festa da Dorna,Local holiday,Galicia,2015,2015-07-24
+25-Jul,Saturday,Feast of Saint James the Apostle,Common Local holidays,"CL, CN, GA, LO, M, NA, PV",2015,2015-07-25
+28-Jul,Tuesday,Day of the Institutions,Local holiday,Cantabria,2015,2015-07-28
+5-Aug,Wednesday,The Day of Our Lady of Africa,Local holiday,Ceuta,2015,2015-08-05
+9-Aug,Sunday,The Day of Cantabria,Local holiday,Cantabria,2015,2015-08-09
+15-Aug,Saturday,Assumption of Mary,National holiday,,2015,2015-08-15
+29-Aug,Saturday,St. Isabel's Feast,Local holiday,Lugo,2015,2015-08-29
+2-Sep,Wednesday,Day of the Independent City of Ceuta,Local holiday,Ceuta,2015,2015-09-02
+8-Sep,Tuesday,Day of Asturias,Local holiday,Asturias,2015,2015-09-08
+8-Sep,Tuesday,Day of Extremadura,Local holiday,Extremadura,2015,2015-09-08
+8-Sep,Tuesday,Virgin of the Victory,Local holiday,Melilla,2015,2015-09-08
+11-Sep,Friday,Day of Catalonia,Local holiday,Catalonia,2015,2015-09-11
+15-Sep,Tuesday,Nuestra Se–ora de la Bien Aparecida,Local holiday,Cantabria,2015,2015-09-15
+17-Sep,Thursday,Day of Melilla,Local holiday,Melilla,2015,2015-09-17
+23-Sep,Wednesday,September equinox,Season,,2015,2015-09-23
+25-Sep,Friday,Eid-al-Adha,Local holiday,"Ceuta, Melilla",2015,2015-09-25
+9-Oct,Friday,Day of the Valencian Community,Local holiday,Valencia,2015,2015-10-09
+12-Oct,Monday,Hispanic Day,National holiday,,2015,2015-10-12
+25-Oct,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time,,2015,2015-10-25
+1-Nov,Sunday,All Saints' Day,National holiday,All except,2015,2015-11-01
+2-Nov,Monday,All Saints' Day observed,National holiday,"All except AN, AR, CL, CN, EX, M, ML, O, S",2015,2015-11-02
+3-Dec,Thursday,Day of Navarre,Local holiday,Navarre,2015,2015-12-03
+6-Dec,Sunday,Constitution Day,National holiday,All except,2015,2015-12-06
+7-Dec,Monday,Constitution Day observed,National holiday,12 states,2015,2015-12-07
+8-Dec,Tuesday,Immaculate Conception,National holiday,,2015,2015-12-08
+22-Dec,Tuesday,December Solstice,Season,,2015,2015-12-22
+24-Dec,Thursday,Christmas Eve,Observance,,2015,2015-12-24
+25-Dec,Friday,Christmas Day,National holiday,,2015,2015-12-25
+26-Dec,Saturday,St Stephen's Day,Local holiday,"B, CT, IB",2015,2015-12-26
+31-Dec,Thursday,New Year's Eve,Observance,,2015,2015-12-31
+1-Jan,Wednesday,New Year's Day,National holiday,,2014,2014-01-01
+1-Jan,Wednesday,Feast of the Holy Family,Observance,,2014,2014-01-01
+6-Jan,Monday,Epiphany,National holiday,,2014,2014-01-06
+22-Jan,Wednesday,Martyr Vicente's Feast,Local holiday,Valencia,2014,2014-01-22
+29-Jan,Wednesday,St. Valero's Feast,Local holiday,Zaragoza,2014,2014-01-29
+28-Feb,Friday,Day of Andaluc’a,Local holiday,Andalusia,2014,2014-02-28
+1-Mar,Saturday,Day of the Balearic Islands,Local holiday,Balearic Islands,2014,2014-03-01
+5-Mar,Wednesday,Ash Wednesday,Observance,,2014,2014-03-05
+5-Mar,Wednesday,Fifth of March,Local holiday,Zaragoza,2014,2014-03-05
+19-Mar,Wednesday,San Jose,Common Local holidays,"AR, CL, CM, EX, GA, M, ML, MU, NA, PV, VC",2014,2014-03-19
+20-Mar,Thursday,March equinox,Season,,2014,2014-03-20
+30-Mar,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time,,2014,2014-03-30
+13-Apr,Sunday,Palm Sunday,Observance,,2014,2014-04-13
+17-Apr,Thursday,Maundy Thursday,Common Local holidays,16 states,2014,2014-04-17
+18-Apr,Friday,Good Friday,National holiday,,2014,2014-04-18
+21-Apr,Monday,Easter Monday,Local holiday,"CT, LO, NA, PV, VC",2014,2014-04-21
+23-Apr,Wednesday,Day of Arag—n,Local holiday,Aragon,2014,2014-04-23
+23-Apr,Wednesday,St George's Day,Local holiday,Catalonia,2014,2014-04-23
+23-Apr,Wednesday,Castile and Le—n Day,Local holiday,Castile-Leon,2014,2014-04-23
+1-May,Thursday,Labor Day / May Day,National holiday,,2014,2014-05-01
+2-May,Friday,Day of Madrid,Local holiday,Madrid,2014,2014-05-02
+4-May,Sunday,Mothers' Day,Observance,,2014,2014-05-04
+15-May,Thursday,Feast Day of St Isidore,Local holiday,Madrid,2014,2014-05-15
+17-May,Saturday,Galicia Literature Day,Local holiday,Galicia,2014,2014-05-17
+30-May,Friday,Day of the Canary Islands,Local holiday,Canary Islands,2014,2014-05-30
+31-May,Saturday,Canaries day observed,Local holiday,Canary Islands,2014,2014-05-31
+31-May,Saturday,Day of Castile-La Mancha,Local holiday,Castile-La Mancha,2014,2014-05-31
+8-Jun,Sunday,Whit Sunday/Pentecost,Observance,,2014,2014-06-08
+9-Jun,Monday,Whit Monday,Local holiday,Barcelona,2014,2014-06-09
+9-Jun,Monday,Day of Murcia,Local holiday,Murcia,2014,2014-06-09
+9-Jun,Monday,Day of La Rioja,Local holiday,La Rioja,2014,2014-06-09
+13-Jun,Friday,San Antonio,Local holiday,Ceuta,2014,2014-06-13
+19-Jun,Thursday,Corpus Christi,Local holiday,Madrid,2014,2014-06-19
+21-Jun,Saturday,June Solstice,Season,,2014,2014-06-21
+24-Jun,Tuesday,Saint John the Baptist Day,Local holiday,Catalonia,2014,2014-06-24
+25-Jul,Friday,Feast of Saint James the Apostle,Common Local holidays,"CL, CN, GA, LO, M, NA, PV",2014,2014-07-25
+28-Jul,Monday,Day of the Institutions,Local holiday,Cantabria,2014,2014-07-28
+5-Aug,Tuesday,The Day of Our Lady of Africa,Local holiday,Ceuta,2014,2014-08-05
+10-Aug,Sunday,The Day of Cantabria,Local holiday,Cantabria,2014,2014-08-10
+15-Aug,Friday,Assumption of Mary,National holiday,,2014,2014-08-15
+2-Sep,Tuesday,Day of the Independent City of Ceuta,Local holiday,Ceuta,2014,2014-09-02
+8-Sep,Monday,Day of Asturias,Local holiday,Asturias,2014,2014-09-08
+8-Sep,Monday,Day of Extremadura,Local holiday,Extremadura,2014,2014-09-08
+8-Sep,Monday,Virgin of the Victory,Local holiday,Melilla,2014,2014-09-08
+11-Sep,Thursday,Day of Catalonia,Local holiday,Catalonia,2014,2014-09-11
+15-Sep,Monday,Nuestra Se–ora de la Bien Aparecida,Local holiday,Cantabria,2014,2014-09-15
+17-Sep,Wednesday,Day of Melilla,Local holiday,Melilla,2014,2014-09-17
+23-Sep,Tuesday,September equinox,Season,,2014,2014-09-23
+6-Oct,Monday,Eid-al-Adha,Local holiday,"Ceuta, Melilla",2014,2014-10-06
+9-Oct,Thursday,Day of the Valencian Community,Local holiday,Valencia,2014,2014-10-09
+12-Oct,Sunday,Hispanic Day,National holiday,,2014,2014-10-12
+13-Oct,Monday,Hispanic Day observed,National holiday,"AN, AR, CE, EX, ML, O",2014,2014-10-13
+26-Oct,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time,,2014,2014-10-26
+1-Nov,Saturday,All Saints' Day,National holiday,All except,2014,2014-11-01
+3-Dec,Wednesday,Day of Navarre,Local holiday,Navarre,2014,2014-12-03
+6-Dec,Saturday,Constitution Day,National holiday,"All except AN, AR, CE, CL, EX, LO, M, ML, MU, O, VC",2014,2014-12-06
+8-Dec,Monday,Immaculate Conception,National holiday,,2014,2014-12-08
+21-Dec,Sunday,December Solstice,Season,,2014,2014-12-21
+24-Dec,Wednesday,Christmas Eve,Observance,,2014,2014-12-24
+25-Dec,Thursday,Christmas Day,National holiday,,2014,2014-12-25
+26-Dec,Friday,St Stephen's Day,Local holiday,"B, CT, IB",2014,2014-12-26
+31-Dec,Wednesday,New Year's Eve,Observance,,2014,2014-12-31
+1-Jan,Tuesday,New Year's Day,National holiday,,2013,2013-01-01
+1-Jan,Tuesday,Feast of the Holy Family,Observance,,2013,2013-01-01
+6-Jan,Sunday,Epiphany,National holiday,,2013,2013-01-06
+7-Jan,Monday,Epiphany observed,Common Local holidays,"AN, AR, CE, CM, M, ML, O, S",2013,2013-01-07
+22-Jan,Tuesday,Martyr Vicente's Feast,Local holiday,Valencia,2013,2013-01-22
+29-Jan,Tuesday,St. Valero's Feast,Local holiday,Zaragoza,2013,2013-01-29
+13-Feb,Wednesday,Ash Wednesday,Observance,,2013,2013-02-13
+28-Feb,Thursday,Day of Andaluc’a,Local holiday,Andalusia,2013,2013-02-28
+1-Mar,Friday,Day of the Balearic Islands,Local holiday,Balearic Islands,2013,2013-03-01
+5-Mar,Tuesday,Fifth of March,Local holiday,Zaragoza,2013,2013-03-05
+19-Mar,Tuesday,San Jose,Common Local holidays,"AR, CL, CM, EX, GA, M, ML, MU, NA, PV, VC",2013,2013-03-19
+20-Mar,Wednesday,March equinox,Season,,2013,2013-03-20
+24-Mar,Sunday,Palm Sunday,Observance,,2013,2013-03-24
+28-Mar,Thursday,Maundy Thursday,Common Local holidays,16 states,2013,2013-03-28
+29-Mar,Friday,Good Friday,National holiday,,2013,2013-03-29
+31-Mar,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time,,2013,2013-03-31
+1-Apr,Monday,Easter Monday,Local holiday,"CT, LO, NA, PV, VC",2013,2013-04-01
+23-Apr,Tuesday,Day of Arag—n,Local holiday,Aragon,2013,2013-04-23
+23-Apr,Tuesday,St George's Day,Local holiday,Catalonia,2013,2013-04-23
+23-Apr,Tuesday,Castile and Le—n Day,Local holiday,Castile-Leon,2013,2013-04-23
+1-May,Wednesday,Labor Day / May Day,National holiday,,2013,2013-05-01
+2-May,Thursday,Day of Madrid,Local holiday,Madrid,2013,2013-05-02
+5-May,Sunday,Mothers' Day,Observance,,2013,2013-05-05
+15-May,Wednesday,Feast Day of St Isidore,Local holiday,Madrid,2013,2013-05-15
+17-May,Friday,Galicia Literature Day,Local holiday,Galicia,2013,2013-05-17
+19-May,Sunday,Whit Sunday/Pentecost,Observance,,2013,2013-05-19
+20-May,Monday,Whit Monday,Local holiday,Barcelona,2013,2013-05-20
+30-May,Thursday,Corpus Christi,Local holiday,Madrid,2013,2013-05-30
+30-May,Thursday,Day of the Canary Islands,Local holiday,Canary Islands,2013,2013-05-30
+31-May,Friday,Canaries day observed,Local holiday,Canary Islands,2013,2013-05-31
+31-May,Friday,Day of Castile-La Mancha,Local holiday,Castile-La Mancha,2013,2013-05-31
+9-Jun,Sunday,Day of Murcia,Local holiday,Murcia,2013,2013-06-09
+9-Jun,Sunday,Day of La Rioja,Local holiday,La Rioja,2013,2013-06-09
+10-Jun,Monday,Day of Murcia observed,Local holiday,Murcia,2013,2013-06-10
+10-Jun,Monday,Day of La Rioja observed,Local holiday,La Rioja,2013,2013-06-10
+13-Jun,Thursday,San Antonio,Local holiday,Ceuta,2013,2013-06-13
+21-Jun,Friday,June Solstice,Season,,2013,2013-06-21
+24-Jun,Monday,Saint John the Baptist Day,Local holiday,Catalonia,2013,2013-06-24
+25-Jul,Thursday,Feast of Saint James the Apostle,Common Local holidays,"CL, CN, GA, LO, M, NA, PV",2013,2013-07-25
+28-Jul,Sunday,Day of the Institutions,Local holiday,Cantabria,2013,2013-07-28
+5-Aug,Monday,The Day of Our Lady of Africa,Local holiday,Ceuta,2013,2013-08-05
+11-Aug,Sunday,The Day of Cantabria,Local holiday,Cantabria,2013,2013-08-11
+15-Aug,Thursday,Assumption of Mary,National holiday,,2013,2013-08-15
+2-Sep,Monday,Day of the Independent City of Ceuta,Local holiday,Ceuta,2013,2013-09-02
+8-Sep,Sunday,Day of Asturias,Local holiday,Asturias,2013,2013-09-08
+8-Sep,Sunday,Day of Extremadura,Local holiday,Extremadura,2013,2013-09-08
+8-Sep,Sunday,Virgin of the Victory,Local holiday,Melilla,2013,2013-09-08
+9-Sep,Monday,Day of Asturias observed,Local holiday,Asturias,2013,2013-09-09
+9-Sep,Monday,Day of Extremadura observed,Local holiday,Extremadura,2013,2013-09-09
+11-Sep,Wednesday,Day of Catalonia,Local holiday,Catalonia,2013,2013-09-11
+15-Sep,Sunday,Nuestra Se–ora de la Bien Aparecida,Local holiday,Cantabria,2013,2013-09-15
+17-Sep,Tuesday,Day of Melilla,Local holiday,Melilla,2013,2013-09-17
+22-Sep,Sunday,September equinox,Season,,2013,2013-09-22
+9-Oct,Wednesday,Day of the Valencian Community,Local holiday,Valencia,2013,2013-10-09
+12-Oct,Saturday,Hispanic Day,National holiday,,2013,2013-10-12
+15-Oct,Tuesday,Eid-al-Adha,Local holiday,"Ceuta, Melilla",2013,2013-10-15
+27-Oct,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time,,2013,2013-10-27
+1-Nov,Friday,All Saints' Day,National holiday,All except,2013,2013-11-01
+3-Dec,Tuesday,Day of Navarre,Local holiday,Navarre,2013,2013-12-03
+6-Dec,Friday,Constitution Day,National holiday,"All except AN, AR, CE, CL, EX, LO, M, ML, MU, O, VC",2013,2013-12-06
+8-Dec,Sunday,Immaculate Conception,National holiday,,2013,2013-12-08
+9-Dec,Monday,Immaculate Conception observed,National holiday,,2013,2013-12-09
+21-Dec,Saturday,December Solstice,Season,,2013,2013-12-21
+24-Dec,Tuesday,Christmas Eve,Observance,,2013,2013-12-24
+25-Dec,Wednesday,Christmas Day,National holiday,,2013,2013-12-25
+31-Dec,Tuesday,New Year's Eve,Observance,,2013,2013-12-31
+1-Jan,Sunday,New Year's Day,National holiday,,2012,2012-01-01
+1-Jan,Sunday,Feast of the Holy Family,Observance,,2012,2012-01-01
+6-Jan,Friday,Epiphany,National holiday,,2012,2012-01-06
+22-Jan,Sunday,Martyr Vicente's Feast,Local holiday,Valencia,2012,2012-01-22
+29-Jan,Sunday,St. Valero's Feast,Local holiday,Zaragoza,2012,2012-01-29
+22-Feb,Wednesday,Ash Wednesday,Observance,,2012,2012-02-22
+28-Feb,Tuesday,Day of Andaluc’a,Local holiday,Andalusia,2012,2012-02-28
+1-Mar,Thursday,Day of the Balearic Islands,Local holiday,Balearic Islands,2012,2012-03-01
+5-Mar,Monday,Fifth of March,Local holiday,Zaragoza,2012,2012-03-05
+19-Mar,Monday,San Jose,Common Local holidays,"AR, CL, CM, EX, GA, M, ML, MU, NA, PV, VC",2012,2012-03-19
+20-Mar,Tuesday,March equinox,Season,,2012,2012-03-20
+25-Mar,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time,,2012,2012-03-25
+1-Apr,Sunday,Palm Sunday,Observance,,2012,2012-04-01
+5-Apr,Thursday,Maundy Thursday,Common Local holidays,16 states,2012,2012-04-05
+6-Apr,Friday,Good Friday,National holiday,,2012,2012-04-06
+9-Apr,Monday,Easter Monday,Local holiday,"CT, LO, NA, PV, VC",2012,2012-04-09
+23-Apr,Monday,Day of Arag—n,Local holiday,Aragon,2012,2012-04-23
+23-Apr,Monday,St George's Day,Local holiday,Catalonia,2012,2012-04-23
+23-Apr,Monday,Castile and Le—n Day,Local holiday,Castile-Leon,2012,2012-04-23
+1-May,Tuesday,Labor Day / May Day,National holiday,,2012,2012-05-01
+2-May,Wednesday,Day of Madrid,Local holiday,Madrid,2012,2012-05-02
+6-May,Sunday,Mothers' Day,Observance,,2012,2012-05-06
+15-May,Tuesday,Feast Day of St Isidore,Local holiday,Madrid,2012,2012-05-15
+17-May,Thursday,Galicia Literature Day,Local holiday,Galicia,2012,2012-05-17
+27-May,Sunday,Whit Sunday/Pentecost,Observance,,2012,2012-05-27
+28-May,Monday,Whit Monday,Local holiday,Barcelona,2012,2012-05-28
+30-May,Wednesday,Day of the Canary Islands,Local holiday,Canary Islands,2012,2012-05-30
+31-May,Thursday,Canaries day observed,Local holiday,Canary Islands,2012,2012-05-31
+31-May,Thursday,Day of Castile-La Mancha,Local holiday,Castile-La Mancha,2012,2012-05-31
+7-Jun,Thursday,Corpus Christi,Local holiday,Madrid,2012,2012-06-07
+9-Jun,Saturday,Day of Murcia,Local holiday,Murcia,2012,2012-06-09
+9-Jun,Saturday,Day of La Rioja,Local holiday,La Rioja,2012,2012-06-09
+13-Jun,Wednesday,San Antonio,Local holiday,Ceuta,2012,2012-06-13
+20-Jun,Wednesday,June Solstice,Season,,2012,2012-06-20
+24-Jun,Sunday,Saint John the Baptist Day,Local holiday,Catalonia,2012,2012-06-24
+25-Jul,Wednesday,Feast of Saint James the Apostle,Common Local holidays,"CL, CN, GA, LO, M, NA, PV",2012,2012-07-25
+28-Jul,Saturday,Day of the Institutions,Local holiday,Cantabria,2012,2012-07-28
+5-Aug,Sunday,The Day of Our Lady of Africa,Local holiday,Ceuta,2012,2012-08-05
+12-Aug,Sunday,The Day of Cantabria,Local holiday,Cantabria,2012,2012-08-12
+15-Aug,Wednesday,Assumption of Mary,National holiday,,2012,2012-08-15
+2-Sep,Sunday,Day of the Independent City of Ceuta,Local holiday,Ceuta,2012,2012-09-02
+8-Sep,Saturday,Day of Asturias,Local holiday,Asturias,2012,2012-09-08
+8-Sep,Saturday,Day of Extremadura,Local holiday,Extremadura,2012,2012-09-08
+8-Sep,Saturday,Virgin of the Victory,Local holiday,Melilla,2012,2012-09-08
+11-Sep,Tuesday,Day of Catalonia,Local holiday,Catalonia,2012,2012-09-11
+15-Sep,Saturday,Nuestra Se–ora de la Bien Aparecida,Local holiday,Cantabria,2012,2012-09-15
+17-Sep,Monday,Day of Melilla,Local holiday,Melilla,2012,2012-09-17
+22-Sep,Saturday,September equinox,Season,,2012,2012-09-22
+9-Oct,Tuesday,Day of the Valencian Community,Local holiday,Valencia,2012,2012-10-09
+12-Oct,Friday,Hispanic Day,National holiday,,2012,2012-10-12
+26-Oct,Friday,Eid-al-Adha,Local holiday,"Ceuta, Melilla",2012,2012-10-26
+28-Oct,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time,,2012,2012-10-28
+1-Nov,Thursday,All Saints' Day,National holiday,All except,2012,2012-11-01
+3-Dec,Monday,Day of Navarre,Local holiday,Navarre,2012,2012-12-03
+6-Dec,Thursday,Constitution Day,National holiday,"All except AN, AR, CE, CL, EX, LO, M, ML, MU, O, VC",2012,2012-12-06
+8-Dec,Saturday,Immaculate Conception,National holiday,,2012,2012-12-08
+21-Dec,Friday,December Solstice,Season,,2012,2012-12-21
+24-Dec,Monday,Christmas Eve,Observance,,2012,2012-12-24
+25-Dec,Tuesday,Christmas Day,National holiday,,2012,2012-12-25
+31-Dec,Monday,New Year's Eve,Observance,,2012,2012-12-31
+1-Jan,Saturday,New Year's Day,National holiday,,2011,2011-01-01
+1-Jan,Saturday,Feast of the Holy Family,Observance,,2011,2011-01-01
+6-Jan,Thursday,Epiphany,National holiday,,2011,2011-01-06
+22-Jan,Saturday,Martyr Vicente's Feast,Local holiday,Valencia,2011,2011-01-22
+29-Jan,Saturday,St. Valero's Feast,Local holiday,Zaragoza,2011,2011-01-29
+28-Feb,Monday,Day of Andaluc’a,Local holiday,Andalusia,2011,2011-02-28
+1-Mar,Tuesday,Day of the Balearic Islands,Local holiday,Balearic Islands,2011,2011-03-01
+5-Mar,Saturday,Fifth of March,Local holiday,Zaragoza,2011,2011-03-05
+9-Mar,Wednesday,Ash Wednesday,Observance,,2011,2011-03-09
+19-Mar,Saturday,San Jose,Common Local holidays,"AR, CL, CM, EX, GA, M, ML, MU, NA, PV, VC",2011,2011-03-19
+20-Mar,Sunday,March equinox,Season,,2011,2011-03-20
+27-Mar,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time,,2011,2011-03-27
+17-Apr,Sunday,Palm Sunday,Observance,,2011,2011-04-17
+21-Apr,Thursday,Maundy Thursday,Common Local holidays,16 states,2011,2011-04-21
+22-Apr,Friday,Good Friday,National holiday,,2011,2011-04-22
+23-Apr,Saturday,Day of Arag—n,Local holiday,Aragon,2011,2011-04-23
+23-Apr,Saturday,St George's Day,Local holiday,Catalonia,2011,2011-04-23
+23-Apr,Saturday,Castile and Le—n Day,Local holiday,Castile-Leon,2011,2011-04-23
+25-Apr,Monday,Easter Monday,Local holiday,"CT, LO, NA, PV, VC",2011,2011-04-25
+1-May,Sunday,Labor Day / May Day,National holiday,,2011,2011-05-01
+1-May,Sunday,Mothers' Day,Observance,,2011,2011-05-01
+2-May,Monday,Labor Day observed,National holiday,14 states,2011,2011-05-02
+3-May,Tuesday,Day of Madrid,Local holiday,Madrid,2011,2011-05-03
+15-May,Sunday,Feast Day of St Isidore,Local holiday,Madrid,2011,2011-05-15
+17-May,Tuesday,Galicia Literature Day,Local holiday,Galicia,2011,2011-05-17
+30-May,Monday,Day of the Canary Islands,Local holiday,Canary Islands,2011,2011-05-30
+31-May,Tuesday,Canaries day observed,Local holiday,Canary Islands,2011,2011-05-31
+31-May,Tuesday,Day of Castile-La Mancha,Local holiday,Castile-La Mancha,2011,2011-05-31
+9-Jun,Thursday,Day of Murcia,Local holiday,Murcia,2011,2011-06-09
+9-Jun,Thursday,Day of La Rioja,Local holiday,La Rioja,2011,2011-06-09
+12-Jun,Sunday,Whit Sunday/Pentecost,Observance,,2011,2011-06-12
+13-Jun,Monday,Whit Monday,Local holiday,Barcelona,2011,2011-06-13
+13-Jun,Monday,San Antonio,Local holiday,Ceuta,2011,2011-06-13
+21-Jun,Tuesday,June Solstice,Season,,2011,2011-06-21
+23-Jun,Thursday,Corpus Christi,Local holiday,Madrid,2011,2011-06-23
+24-Jun,Friday,Saint John the Baptist Day,Local holiday,Catalonia,2011,2011-06-24
+25-Jul,Monday,Feast of Saint James the Apostle,Common Local holidays,"CL, CN, GA, LO, M, NA, PV",2011,2011-07-25
+28-Jul,Thursday,Day of the Institutions,Local holiday,Cantabria,2011,2011-07-28
+5-Aug,Friday,The Day of Our Lady of Africa,Local holiday,Ceuta,2011,2011-08-05
+14-Aug,Sunday,The Day of Cantabria,Local holiday,Cantabria,2011,2011-08-14
+15-Aug,Monday,Assumption of Mary,National holiday,,2011,2011-08-15
+2-Sep,Friday,Day of the Independent City of Ceuta,Local holiday,Ceuta,2011,2011-09-02
+8-Sep,Thursday,Day of Asturias,Local holiday,Asturias,2011,2011-09-08
+8-Sep,Thursday,Day of Extremadura,Local holiday,Extremadura,2011,2011-09-08
+8-Sep,Thursday,Virgin of the Victory,Local holiday,Melilla,2011,2011-09-08
+11-Sep,Sunday,Day of Catalonia,Local holiday,Catalonia,2011,2011-09-11
+15-Sep,Thursday,Nuestra Se–ora de la Bien Aparecida,Local holiday,Cantabria,2011,2011-09-15
+17-Sep,Saturday,Day of Melilla,Local holiday,Melilla,2011,2011-09-17
+23-Sep,Friday,September equinox,Season,,2011,2011-09-23
+9-Oct,Sunday,Day of the Valencian Community,Local holiday,Valencia,2011,2011-10-09
+12-Oct,Wednesday,Hispanic Day,National holiday,,2011,2011-10-12
+30-Oct,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time,,2011,2011-10-30
+1-Nov,Tuesday,All Saints' Day,National holiday,All except,2011,2011-11-01
+7-Nov,Monday,Eid-al-Adha,Local holiday,"Ceuta, Melilla",2011,2011-11-07
+3-Dec,Saturday,Day of Navarre,Local holiday,Navarre,2011,2011-12-03
+6-Dec,Tuesday,Constitution Day,National holiday,"All except AN, AR, CE, CL, EX, LO, M, ML, MU, O, VC",2011,2011-12-06
+8-Dec,Thursday,Immaculate Conception,National holiday,,2011,2011-12-08
+22-Dec,Thursday,December Solstice,Season,,2011,2011-12-22
+24-Dec,Saturday,Christmas Eve,Observance,,2011,2011-12-24
+25-Dec,Sunday,Christmas Day,National holiday,,2011,2011-12-25
+26-Dec,Monday,Christmas Day observed,Common Local holidays,12 states,2011,2011-12-26
+31-Dec,Saturday,New Year's Eve,Observance,,2011,2011-12-31
+1-Jan,Friday,New Year's Day,National holiday,,2010,2010-01-01
+1-Jan,Friday,Feast of the Holy Family,Observance,,2010,2010-01-01
+6-Jan,Wednesday,Epiphany,National holiday,,2010,2010-01-06
+22-Jan,Friday,Martyr Vicente's Feast,Local holiday,Valencia,2010,2010-01-22
+29-Jan,Friday,St. Valero's Feast,Local holiday,Zaragoza,2010,2010-01-29
+17-Feb,Wednesday,Ash Wednesday,Observance,,2010,2010-02-17
+28-Feb,Sunday,Day of Andaluc’a,Local holiday,Andalusia,2010,2010-02-28
+1-Mar,Monday,Day of the Balearic Islands,Local holiday,Balearic Islands,2010,2010-03-01
+5-Mar,Friday,Fifth of March,Local holiday,Zaragoza,2010,2010-03-05
+19-Mar,Friday,San Jose,Common Local holidays,"AR, CL, CM, EX, GA, M, ML, MU, NA, PV, VC",2010,2010-03-19
+20-Mar,Saturday,March equinox,Season,,2010,2010-03-20
+28-Mar,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time,,2010,2010-03-28
+28-Mar,Sunday,Palm Sunday,Observance,,2010,2010-03-28
+1-Apr,Thursday,Maundy Thursday,Common Local holidays,16 states,2010,2010-04-01
+2-Apr,Friday,Good Friday,National holiday,,2010,2010-04-02
+5-Apr,Monday,Easter Monday,Local holiday,"CT, LO, NA, PV, VC",2010,2010-04-05
+23-Apr,Friday,Day of Arag—n,Local holiday,Aragon,2010,2010-04-23
+23-Apr,Friday,St George's Day,Local holiday,Catalonia,2010,2010-04-23
+23-Apr,Friday,Castile and Le—n Day,Local holiday,Castile-Leon,2010,2010-04-23
+1-May,Saturday,Labor Day / May Day,National holiday,,2010,2010-05-01
+2-May,Sunday,Mothers' Day,Observance,,2010,2010-05-02
+3-May,Monday,Day of Madrid,Local holiday,Madrid,2010,2010-05-03
+15-May,Saturday,Feast Day of St Isidore,Local holiday,Madrid,2010,2010-05-15
+17-May,Monday,Galicia Literature Day,Local holiday,Galicia,2010,2010-05-17
+23-May,Sunday,Whit Sunday/Pentecost,Observance,,2010,2010-05-23
+24-May,Monday,Whit Monday,Local holiday,Barcelona,2010,2010-05-24
+30-May,Sunday,Day of the Canary Islands,Local holiday,Canary Islands,2010,2010-05-30
+31-May,Monday,Canaries day observed,Local holiday,Canary Islands,2010,2010-05-31
+31-May,Monday,Day of Castile-La Mancha,Local holiday,Castile-La Mancha,2010,2010-05-31
+3-Jun,Thursday,Corpus Christi,Local holiday,Madrid,2010,2010-06-03
+9-Jun,Wednesday,Day of Murcia,Local holiday,Murcia,2010,2010-06-09
+9-Jun,Wednesday,Day of La Rioja,Local holiday,La Rioja,2010,2010-06-09
+13-Jun,Sunday,San Antonio,Local holiday,Ceuta,2010,2010-06-13
+21-Jun,Monday,June Solstice,Season,,2010,2010-06-21
+24-Jun,Thursday,Saint John the Baptist Day,Local holiday,Catalonia,2010,2010-06-24
+25-Jul,Sunday,Feast of Saint James the Apostle,Common Local holidays,"CL, CN, GA, LO, M, NA, PV",2010,2010-07-25
+28-Jul,Wednesday,Day of the Institutions,Local holiday,Cantabria,2010,2010-07-28
+5-Aug,Thursday,The Day of Our Lady of Africa,Local holiday,Ceuta,2010,2010-08-05
+8-Aug,Sunday,The Day of Cantabria,Local holiday,Cantabria,2010,2010-08-08
+15-Aug,Sunday,Assumption of Mary,National holiday,,2010,2010-08-15
+16-Aug,Monday,Assumption observed,National holiday,,2010,2010-08-16
+2-Sep,Thursday,Day of the Independent City of Ceuta,Local holiday,Ceuta,2010,2010-09-02
+8-Sep,Wednesday,Day of Asturias,Local holiday,Asturias,2010,2010-09-08
+8-Sep,Wednesday,Day of Extremadura,Local holiday,Extremadura,2010,2010-09-08
+8-Sep,Wednesday,Virgin of the Victory,Local holiday,Melilla,2010,2010-09-08
+11-Sep,Saturday,Day of Catalonia,Local holiday,Catalonia,2010,2010-09-11
+15-Sep,Wednesday,Nuestra Se–ora de la Bien Aparecida,Local holiday,Cantabria,2010,2010-09-15
+17-Sep,Friday,Day of Melilla,Local holiday,Melilla,2010,2010-09-17
+23-Sep,Thursday,September equinox,Season,,2010,2010-09-23
+9-Oct,Saturday,Day of the Valencian Community,Local holiday,Valencia,2010,2010-10-09
+12-Oct,Tuesday,Hispanic Day,National holiday,,2010,2010-10-12
+31-Oct,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time,,2010,2010-10-31
+1-Nov,Monday,All Saints' Day,National holiday,All except,2010,2010-11-01
+17-Nov,Wednesday,Eid-al-Adha,Local holiday,"Ceuta, Melilla",2010,2010-11-17
+3-Dec,Friday,Day of Navarre,Local holiday,Navarre,2010,2010-12-03
+6-Dec,Monday,Constitution Day,National holiday,"All except AN, AR, CE, CL, EX, LO, M, ML, MU, O, VC",2010,2010-12-06
+8-Dec,Wednesday,Immaculate Conception,National holiday,,2010,2010-12-08
+21-Dec,Tuesday,December Solstice,Season,,2010,2010-12-21
+24-Dec,Friday,Christmas Eve,Observance,,2010,2010-12-24
+25-Dec,Saturday,Christmas Day,National holiday,,2010,2010-12-25
+27-Dec,Monday,Christmas Day observed,Common Local holidays,Balearic Islands,2010,2010-12-27
+31-Dec,Friday,New Year's Eve,Observance,,2010,2010-12-31
