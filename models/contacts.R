@@ -1,4 +1,4 @@
-setwd("/Users/mark/Documents/AV-Xtreme/models/")
+#setwd("/Users/mark/Documents/AV-Xtreme/models/")
 library(data.table)
 
 holidays<-fread("../input/spanish_holidays.csv")
