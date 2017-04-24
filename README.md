@@ -37,3 +37,7 @@ I kept the feature space fairly small.
   * validation: started with Leave-One-Year-Out, finished measuring January - March 2016 (prior year from test predictions)
 
 I started modeling with simple averages, as shown above, where the entire data set was used, and those results were applied to the entire data set. But soon I moved to a more sound version of the calculation where the impact of each record is removed from the calculation so that it is not leaked. And toward the end, I used an entire validation set to where no records of that set were used in the average calculations (similar to the actual prediction environment).
+
+#### Feature Importance
+Contacts Model:
+<img width="448" alt="image" src="https://cloud.githubusercontent.com/assets/2976822/25326878/9cb19898-2897-11e7-8d0d-cb00b940f042.png">
