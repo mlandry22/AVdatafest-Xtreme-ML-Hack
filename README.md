@@ -1,8 +1,11 @@
 # AVdatafest-Xtreme-ML-Hack
 
 ### Introduction
-Code to create half of the winning voH2O submission for Analytics Vidhya's hackathon AVdatafest Xtreme ML Hack: https://datahack.analyticsvidhya.com/contest/machine-learning-hackathon/lb
-The code in thie repository was used as a 30% blend with vopani's code, which can be found here: https://github.com/rohanrao91/AnalyticsVidhya_XtremeMLHack
+Code to create half of the winning voH2O submission for Analytics Vidhya's hackathon AVdatafest Xtreme ML Hack:  
+https://datahack.analyticsvidhya.com/contest/machine-learning-hackathon/lb  
+
+The code in thie repository was used as a 30% blend with vopani's code, which can be found here:  
+https://github.com/rohanrao91/AnalyticsVidhya_XtremeMLHack
 
 ### Running Code
 My solution is in R and I used the data.table and h2o package to create my solution. Versions of either should not be important, but I used  1.10.0 and 3.11.0.3784, respectively. Run on a Macbook pro, but again, it should be hardware agnostic.
