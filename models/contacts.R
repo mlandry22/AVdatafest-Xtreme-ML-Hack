@@ -1,4 +1,4 @@
-#setwd("/Users/mark/Documents/AV-Xtreme/models/")
+setwd("/Users/mark/Documents/AV-Xtreme/models/")
 library(data.table)
 
 holidays<-fread("../input/spanish_holidays.csv")
@@ -98,17 +98,17 @@ conPredict[1:10,]
 summary(conPredict)
 fwrite(conPredict[,.(ID,Contacts=pmax(0,Contacts))][order(ID)],"Contacts.csv")
 
-cont_test[,dtFormat:=as.Date(Date)]
-cont_test[1:2];full[1:2]
-cont_test<-cont_test[order(dtFormat,CONTACT.TYPE)]
-full<-full[order(set,dtFormat,CONTACT.TYPE)]
-full[set=="test",ID:=cont_test[,ID]]
+#cont_test[,dtFormat:=as.Date(Date)]
+#cont_test[1:2];full[1:2]
+#cont_test<-cont_test[order(dtFormat,CONTACT.TYPE)]
+#full<-full[order(set,dtFormat,CONTACT.TYPE)]
+#full[set=="test",ID:=cont_test[,ID]]
 
-library(Metrics)
-rmse(full[set=="train",Contacts],0)
-rmse(full[set=="train",Contacts],mean(full[set=="train",Contacts]))
-rmse(full[set=="train",Contacts],full[set=="train",mean_type_wkday])
-sum(se(full[set=="train",Contacts],full[set=="train",mean_type_wkday]))
+#library(Metrics)
+#rmse(full[set=="train",Contacts],0)
+#rmse(full[set=="train",Contacts],mean(full[set=="train",Contacts]))
+#rmse(full[set=="train",Contacts],full[set=="train",mean_type_wkday])
+#sum(se(full[set=="train",Contacts],full[set=="train",mean_type_wkday]))
 
 #740*(20/74)
 #200 in public
